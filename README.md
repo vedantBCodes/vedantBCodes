@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Hi . I'm vedant .<br>   -A computer science student<br>   -Persuing a Bachelor degree in computer application from TMV , pune .<br>   -Currently learning react JS .<br>   -Also working on an E-commerce website.<br>
+  Hi . I'm vedant .<br>   -A computer science student<br>   -Persuing a Bachelor degree in computer application from TMV , pune .<br>   -Currently learning react JS .<br>   -Parallelly working on an E-commerce website.<br>
 
 
 # 💻 Tech Stack:
